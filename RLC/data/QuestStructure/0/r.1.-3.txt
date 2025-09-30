@@ -1,0 +1,7 @@
+StonePlantMound3,978,989,-1931,-1922
+RLCraft_DecentCaveSpider,970,970,-1749,-1749
+RLCraft_UndergroundRuin3,967,975,-1751,-1743
+P_SmallShip,899,919,-1824,-1818
+BlazeSpawnerCrystal,568,574,-1950,-1944
+StonePlantMound1,554,560,-1893,-1887
+StonePlantMound4,515,522,-1893,-1886

@@ -1,0 +1,8 @@
+RLCraft_AgentStarbuck_WaterBase,-1133,-1116,-1049,-1037
+Flagship,-1416,-1301,-1212,-1169
+ShrineSmallFire,-1355,-1345,-1343,-1333
+UndergroundTreeoid,-1252,-1229,-1522,-1496
+RLCraft_BasicWitch,-1117,-1117,-1295,-1295
+RLCraft_UndergroundRuin1,-1120,-1111,-1298,-1289
+ShrineSmallFire,-1213,-1203,-1194,-1184
+ShrineSmallWater,-1530,-1522,-1197,-1189

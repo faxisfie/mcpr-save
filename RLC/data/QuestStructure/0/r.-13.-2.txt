@@ -1,0 +1,16 @@
+RLCraft_SmallUndergroundSkeleton,-6710,-6702,-1281,-1273
+IceThorn3,-6768,-6754,-1362,-1348
+StoneIceBoulder1,-6744,-6734,-1153,-1143
+StoneIceBoulder,-6791,-6782,-1184,-1174
+IceThorn3,-6838,-6824,-1247,-1233
+StonePlantBoulder,-6797,-6787,-1115,-1105
+StoneBoulder,-6807,-6798,-1070,-1061
+BlazeSpawnerCrystal,-6826,-6820,-1227,-1221
+P_Tent,-6863,-6854,-1364,-1355
+RLCraft_DecentCaveSpider,-6855,-6855,-1247,-1247
+RLCraft_UndergroundRuin2,-6857,-6850,-1252,-1242
+PirateChest,-6840,-6836,-1154,-1150
+StonePlantMound2,-6877,-6865,-1080,-1067
+StoneIceBoulder3,-6881,-6871,-1158,-1148
+StoneIceBoulder1,-6893,-6883,-1264,-1254
+StonePlantMound2,-6958,-6946,-1196,-1183

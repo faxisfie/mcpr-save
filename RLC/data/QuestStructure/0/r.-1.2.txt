@@ -1,0 +1,15 @@
+StonePlantMound1,-647,-641,1519,1525
+StoneBoulder,-663,-654,1522,1531
+RLCraft_DecentSkeleton,-695,-695,1504,1504
+RLCraft_UndergroundRuin2,-697,-690,1499,1509
+StonePlantMound1,-714,-708,1495,1501
+ShrineSmallAir,-719,-711,1474,1482
+StonePlantMound3,-731,-720,1512,1521
+ClayWaterMound1,-828,-817,1491,1501
+RLCraft_DecentCaveSpider,-888,-888,1499,1499
+RLCraft_UndergroundRuin3,-894,-886,1494,1502
+StonePlantMound2,-922,-909,1522,1534
+StoneBoulder,-952,-943,1480,1489
+StoneLeafMound,-979,-972,1505,1514
+SmallFortRuinsJapanese,-993,-947,1023,1069
+ElvenPond,-1005,-975,1081,1110

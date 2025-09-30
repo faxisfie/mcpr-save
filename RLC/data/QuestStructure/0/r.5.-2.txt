@@ -1,0 +1,7 @@
+ShrineSmallFire,2566,2576,-1467,-1457
+RLCraft_SmallUndergroundSkeleton,2690,2698,-1433,-1425
+P_TreeDungeon,2647,2689,-1425,-1380
+RLCraft_SmallUndergroundSkeleton,2750,2758,-1284,-1276
+DesertHut,2828,2838,-1400,-1391
+RLCraft_SmallUndergroundSkeleton,2881,2889,-1526,-1518
+UndergroundCrypt,3057,3071,-1499,-1471

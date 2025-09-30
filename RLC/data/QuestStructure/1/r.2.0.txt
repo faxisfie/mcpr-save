@@ -1,0 +1,4 @@
+RLCraft_End_Decoration_1,1216,1226,388,398
+RLCraft_End_Gateway,1298,1306,505,513
+RLCraft_End_Decoration_2,1353,1363,426,436
+RLCraft_End_Decoration_2,1428,1438,334,344

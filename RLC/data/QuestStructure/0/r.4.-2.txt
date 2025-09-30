@@ -1,0 +1,11 @@
+RLCraft_LargeUndergroundTown,1993,2106,-1093,-956
+DinosaurSkull,2068,2087,-1414,-1403
+SmallWoodenCottage2,2161,2169,-1410,-1402
+SmallWoodenCottage2,2148,2156,-1309,-1301
+P_DesertTemple,2259,2309,-1171,-1122
+FallenPalmTree,2328,2338,-1093,-1089
+FallenPalmTree,2414,2424,-1243,-1239
+SmallClockworkSite,2418,2437,-1271,-1249
+PirateChest,2464,2468,-1325,-1321
+RLCraft_BasicCaveSpider,2559,2559,-1412,-1412
+RLCraft_UndergroundRuin1,2553,2562,-1418,-1409

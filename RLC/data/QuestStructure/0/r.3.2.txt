@@ -1,0 +1,8 @@
+StonePlantMound3,1624,1633,1052,1063
+StonePlantMound1,1635,1641,1084,1090
+StonePlantBoulder,1767,1777,1035,1045
+StonePlantMound1,1771,1777,1095,1101
+RLCraft_SmallUndergroundSkeleton,1783,1791,1129,1137
+StonePlantMound3,1818,1827,1133,1144
+StoneBoulder,1830,1839,1035,1044
+SmallAbandonedMine,1829,1844,1039,1064

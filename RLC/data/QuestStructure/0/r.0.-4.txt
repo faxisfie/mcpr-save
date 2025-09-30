@@ -1,0 +1,17 @@
+RLCraft_DecentWitch,397,397,-2089,-2089
+RLCraft_UndergroundRuin2,395,402,-2094,-2084
+StonePlantMound2,444,457,-2274,-2262
+P_SmallShip,288,294,-2314,-2294
+RLCraft_SmallUndergroundSkeleton,-356,-348,-2320,-2312
+ShrineSmallFire,-371,-361,-2297,-2287
+ShrineSmallWater,-390,-382,-2174,-2166
+MeteorSite,-366,-336,-2431,-2416
+ShrineSmallFire,-332,-322,-2508,-2498
+DesertWatchtower,-334,-324,-2533,-2523
+RLCraft_PlainsCamp,231,270,-2581,-2535
+RLCraft_BasicWitch,369,369,-2511,-2511
+RLCraft_UndergroundRuin1,363,372,-2517,-2508
+StonePlantMound2,412,425,-2491,-2479
+WoodWallRemains,487,495,-2475,-2447
+StonePlantMound3,465,474,-2397,-2386
+ClayWaterMound,498,505,-2388,-2380

@@ -1,0 +1,11 @@
+RLCraft_DecentWitch,-1584,-1584,-1058,-1058
+RLCraft_UndergroundRuin3,-1589,-1581,-1064,-1056
+RLCraft_DecentWitch,-1551,-1551,-1196,-1196
+RLCraft_UndergroundRuin2,-1553,-1546,-1201,-1191
+ShrineSmallFire,-1657,-1647,-1128,-1118
+WitchPillars,-1722,-1705,-1214,-1197
+StonePlantMound,-1760,-1755,-1187,-1182
+StonePlantMound1,-1776,-1770,-1196,-1190
+StonePlantMound2,-1787,-1774,-1182,-1170
+RLCraft_BasicCaveSpider,-1859,-1859,-1073,-1073
+RLCraft_UndergroundRuin1,-1865,-1856,-1079,-1070

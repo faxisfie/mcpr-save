@@ -1,0 +1,8 @@
+RLCraft_DecentSkeleton,-3116,-3116,-882,-882
+RLCraft_UndergroundRuin3,-3118,-3110,-885,-877
+BlazeSpawnerCrystal,-3219,-3213,-964,-958
+StoneLeafMound,-3380,-3373,-556,-547
+StonePlantMound2,-3374,-3362,-530,-517
+RLCraft_BasicWitch,-3287,-3287,-851,-851
+RLCraft_UndergroundRuin1,-3290,-3281,-857,-848
+ShrineSmallWater,-3540,-3532,-843,-835

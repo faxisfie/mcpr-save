@@ -1,0 +1,8 @@
+StonePlantBoulder,-6793,-6783,-1023,-1013
+StonePlantMound4,-6714,-6707,-1022,-1015
+RLCraft_PlainsCamp,-6789,-6743,-988,-949
+StonePlantMound1,-6778,-6772,-941,-935
+ShrineSmallFire,-6715,-6705,-910,-900
+StonePlantMound1,-6757,-6751,-871,-865
+StonePlantMound,-6806,-6801,-854,-849
+StonePlantMound2,-6822,-6809,-856,-844

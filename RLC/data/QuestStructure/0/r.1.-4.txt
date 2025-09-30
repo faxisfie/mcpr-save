@@ -1,0 +1,7 @@
+StonePlantBoulder,875,885,-2105,-2095
+MysticalTree2,618,628,-2134,-2124
+RLCraft_BasicSpider,518,518,-2226,-2226
+RLCraft_UndergroundRuin1,515,524,-2229,-2220
+StonePlantMound,570,575,-2535,-2530
+P_TreeDungeon,549,594,-2471,-2429
+ClayWaterMound,568,576,-2398,-2391

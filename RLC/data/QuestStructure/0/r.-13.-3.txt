@@ -1,0 +1,2 @@
+SmallAbandonedMine,-6800,-6775,-1550,-1535
+MeteorSite,-6841,-6826,-1670,-1640

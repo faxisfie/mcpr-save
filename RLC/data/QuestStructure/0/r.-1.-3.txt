@@ -1,0 +1,2 @@
+SmallClockworkSite,-607,-585,-1674,-1655
+RLCraft_DesertTown,-795,-729,-1753,-1687

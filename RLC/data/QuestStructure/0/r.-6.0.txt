@@ -1,0 +1,2 @@
+StonePlantMound,-3375,-3370,-486,-481
+StonePlantMound2,-3319,-3307,-500,-487
